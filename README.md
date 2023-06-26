@@ -2,7 +2,8 @@
 
 - Support generate qr-code and custom icon inside middle qr-code
 
-> **Warning**
+> **Warning** 
+> 
 > Source code only provides the most basic approach, not for production purposes
 
 ### Run
